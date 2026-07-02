@@ -338,23 +338,6 @@ While using the mod:
 
 ---
 
-## Screenshots
-
-Add screenshots here after you capture them from your own patched copy.
-
-Suggested screenshots:
-
-- Main category menu
-- Room Select page
-- Visual / Collision overlay
-- Sound Test page
-- Sprite Viewer page
-- Object Browser page
-
-Do not include screenshots that reveal private save data or unreleased/private content.
-
----
-
 ## Credits
 
 Created by **sonic Fan Tech**.
