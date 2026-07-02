@@ -16,11 +16,11 @@ This is the **first public release**, so the public version number is **v1**. Ol
 
 ---
 
-## Important Distribution Rule
+## Important Distribution Note
 
 This repository should only contain the `.csx` script source and documentation.
 
-Do **not** upload or distribute:
+does **not** contain or distribute:
 
 - DELTARUNE game files
 - Modified `data.win` files
