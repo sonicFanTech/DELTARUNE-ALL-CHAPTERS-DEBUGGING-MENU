@@ -338,25 +338,6 @@ While using the mod:
 
 ---
 
-## Recommended Repository Layout
-
-```text
-SFT-DELTARUNE-Debug-Menu/
-├─ README.md
-├─ LICENSE
-├─ DELTARUNE_Debug_Menu_v1.csx
-├─ RELEASE_NOTES_v1.txt
-├─ GAMEJOLT_DESCRIPTION.txt
-└─ screenshots/
-   ├─ menu-main.png
-   ├─ room-select.png
-   ├─ visual-collision.png
-   ├─ sound-test.png
-   └─ sprite-viewer.png
-```
-
----
-
 ## Screenshots
 
 Add screenshots here after you capture them from your own patched copy.
