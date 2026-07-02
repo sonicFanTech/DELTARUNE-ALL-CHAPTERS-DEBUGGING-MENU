@@ -13,11 +13,11 @@ The goal is to turn the basic pre-made UMT room selector idea into a bigger menu
 
 ---
 
-## Important Distribution Rule
+## Important Distribution Note
 
-This repo should only contain the `.csx` script source and documentation.
+This repo only contain the `.csx` script source and documentation.
 
-Do **not** upload or distribute:
+it does **not** contain or distribute:
 
 - DELTARUNE game files
 - Modified `data.win` files
